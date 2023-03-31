@@ -16,7 +16,7 @@ phases:
 
 artifacts:
   files:
-    - /var/www/html/index.html
+    - index.html
     - appspec.yml
     - install_nginx.sh
     - start_nginx.sh
